@@ -7,7 +7,7 @@ Rody Pay is a Online Bank application.Users can create their own card and can ke
 - ### [main packages used](https://github.com/omar201999/Rody-Pay/blob/main/README.md#main-packages-used-1)
 - ### [Folder structure](https://github.com/omar201999/Rody-Pay/blob/main/README.md#folder-structure-1)
 - ### [Screenshots](https://github.com/omar201999/Rody-Pay/blob/main/README.md#screenshots-1)
-- ### [Google Play Store](https://github.com/omar201999/Rody-Pay/blob/main/README.md#google-play-store)
+- ### [Google Play Store](https://github.com/omar201999/Rody-Pay/blob/main/README.md#Google Play Store)
 
 ## Main packages used
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc) as state management
